@@ -24,7 +24,7 @@ tags:
 The Resistance is a social deduction game with secret identities. Players are either members of the resistance attempting to overthrow a malignant government, or spies trying to thwart the Resistance.
 
 The Resistance wins the game if three Missions are completed successfully.
-
+ 
 The Spies win if three Missions fail.
 
 The Spies can also win if the Resistance is unable to organize the Mission Team at any point in the game *(5 failed votes on a single mission)*.
